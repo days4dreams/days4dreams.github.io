@@ -1,0 +1,27 @@
+read me - Publish Personal site to Github
+
+
+GitHub Pages is an excellent option for hosting a simple, static site. When you create a GitHub account, you’re given access to hosting benefits that allow you to host one site per organization for free.
+
+Let’s take a look at how we can host a static site via GitHub Pages. After the demo, you’ll then use these steps to host your final project.
+
+First, we’ll need to create a new repository in GitHub.
+
+Unlike other GitHub repos you may have made before, this repository name is not arbitrary and must follow a certain structure:
+
+username.github.io
+In this example, it will be "sarahholden.github.io".
+
+It won’t work if the first part of the repository doesn’t exactly match your username, so make sure to get it right.
+
+Next, we'll go ahead and create a simple site in Sublime Text.
+
+This will give us something to see when we deploy our site.
+
+Here, we have a folder for our project "sarah_final_project" with an index.html file.
+
+In the HTML file, we have a simple h1 that reads "Hello World."
+
+Now that our site is at a point where we have something to display, let's "push to production" and have GitHub Pages host our view.
+
+Because GitHub knows we want our code hosted based off the repository name we provided, all we have to do to deploy is push our code to GitHub like we normally would. GitHub Pages will take care of the rest.
