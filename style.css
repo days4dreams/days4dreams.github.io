@@ -1,0 +1,16 @@
+html {
+	background: url('back-fill.png') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+/* Sets background image to fill and centre. Vendor prefixes to target specific browsers */
+
+h1 {
+	font-size: 50px;
+}
+
+.bio {
+	font-weight: 400;
+}
