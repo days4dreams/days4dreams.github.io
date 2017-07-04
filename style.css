@@ -7,8 +7,16 @@ html {
 }
 /* Sets background image to fill and centre. Vendor prefixes to target specific browsers */
 
+body { background-color:transparent; }
+
 h1 {
 	font-size: 50px;
+}
+
+
+.about{
+	width: 600px;
+	margin-left: 100px;
 }
 
 .bio {
